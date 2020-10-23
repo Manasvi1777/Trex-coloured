@@ -74,7 +74,6 @@ function setup() {
 function draw() {
   
   background("lightblue");
-  text("manasvi",200,200);
   //displaying score
   text("Score: "+ score, 500,50);
   
